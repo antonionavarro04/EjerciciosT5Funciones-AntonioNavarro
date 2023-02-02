@@ -1,7 +1,6 @@
 package ejercicios;
 
-// ? Importamos la Clase PerArrays
-import personalized.PerArrays;
+import newarrays.PerArrays;
 
 public class Ejercicio2 {
     public static int maximoArray(int array[]) {

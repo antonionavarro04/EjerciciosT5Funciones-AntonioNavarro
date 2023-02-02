@@ -1,8 +1,7 @@
 package ejercicios;
 
-// ? Importamos la clase PerArrays y Mathematics
-import personalized.PerArrays;
-import personalized.Mathematics;
+import newarrays.Mathematics;
+import newarrays.PerArrays;
 
 public class Ejercicio3 {
     public static int[] rellenaPares(int longitud, int fin) {

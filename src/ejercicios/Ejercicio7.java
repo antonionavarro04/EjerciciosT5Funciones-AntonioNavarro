@@ -1,6 +1,6 @@
 package ejercicios;
 
-import personalized.PerArrays;
+import newarrays.PerArrays;
 
 public class Ejercicio7 {
     private static final int VALOR_A_BUSCAR = 3;

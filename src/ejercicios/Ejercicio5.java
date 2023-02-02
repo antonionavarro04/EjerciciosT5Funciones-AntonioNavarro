@@ -1,7 +1,6 @@
 package ejercicios;
 
-// ? Importamos la clase PerArrays
-import personalized.PerArrays;
+import newarrays.PerArrays;
 
 public class Ejercicio5 {
     public static int[] sinRepetidos(int arrayOriginal[]) {

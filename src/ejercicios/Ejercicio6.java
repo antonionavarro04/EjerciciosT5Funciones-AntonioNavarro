@@ -1,7 +1,8 @@
 package ejercicios;
 
 import java.util.Arrays;
-import personalized.PerArrays;
+
+import newarrays.PerArrays;
 
 public class Ejercicio6 {
     public static int[] eliminarMayores(int arrayOriginal[], int baremo) {

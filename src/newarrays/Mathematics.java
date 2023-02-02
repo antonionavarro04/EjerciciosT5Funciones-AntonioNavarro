@@ -1,4 +1,4 @@
-package personalized;
+package newarrays;
 
 // ? Imports
 import java.lang.Math;
