@@ -43,15 +43,15 @@ public class Ejercicio9 {
             {4, 3, 8},
         };
 
-        int matrix[][] = new int [3][3]; PerArrays.fillArrayRandom(matrix, 1, 10);
+        int matrix[][] = new int [3][3]; PerArrays.fillArrayRandom(matrix, 9, 1);
 
         PerArrays.printArray(magicMatrix);
-        System.out.printf("Esta matiz es '%s'\n", (esMagica(magicMatrix) ? "Mágica" : "Normal"));
+        System.out.printf("Esta matriz es '%s'\n", (esMagica(magicMatrix) ? "Mágica" : "Normal"));
         
         // ? Salto de Línea Triple
         System.out.println("\n------------------------------\n");
         
         PerArrays.printArray(matrix);
-        System.out.printf("Esta matiz es '%s'", (esMagica(matrix) ? "Mágica" : "Normal"));
+        System.out.printf("Esta matriz es '%s'", (esMagica(matrix) ? "Mágica" : "Normal"));
     }
 }
